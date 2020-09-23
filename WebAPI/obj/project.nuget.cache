@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sx9p8ukVoWSs8xi2i/5BghR/oHLII/GTxIDmuCi8gY/pKLnq91izq1leZYxgkkdkKRzUVZVHo7epA/EcrlhdMg==",
+  "dgSpecHash": "ehA3dXRNGHnLYb5k4RGEfnU0/tISsRmcVDEDOwN4KLFoQCdDBb92qg7ctbNYKzFhMSuy7sbKGDy5ZFFVadHzDQ==",
   "success": true,
-  "projectFilePath": "C:\\JogosEmprestimos\\ControleEmprestimoJogos\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\ProjetosGit\\ControleEmprestimoJogos\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cesarm\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Cesarm\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

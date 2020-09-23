@@ -5550,11 +5550,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\JogosEmprestimos\\ControleEmprestimoJogos\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\ProjetosGit\\ControleEmprestimoJogos\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\JogosEmprestimos\\ControleEmprestimoJogos\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\ProjetosGit\\ControleEmprestimoJogos\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\Cesarm\\.nuget\\packages\\",
-      "outputPath": "C:\\JogosEmprestimos\\ControleEmprestimoJogos\\WebAPI\\obj\\",
+      "outputPath": "C:\\ProjetosGit\\ControleEmprestimoJogos\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
