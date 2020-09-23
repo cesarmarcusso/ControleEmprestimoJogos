@@ -1,0 +1,9 @@
+Relato de problemas no AppWeb:
+1-) Cadastro de Emprestimos não está gravando devido a um erro no método post/put da API, retorna stauts 400
+    e não consegui resolver. Trata-se de uma tabela que possui relacionamentos e nao deu o tempo.
+
+2-) Meu equipamento não suporta Visual Studio Code e Vs2019 muito dificil e lento devido ao pico de leitura
+    100% CPU e 80 a 90 porcento de memoria.
+ 	
+3-) Muito timeout em leituras e retorno de informações via API.	
+

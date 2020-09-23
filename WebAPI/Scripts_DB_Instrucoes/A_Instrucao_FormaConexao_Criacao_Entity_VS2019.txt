@@ -1,0 +1,12 @@
+
+1) Forma utilizada para criar as Entitys no projeto do visual studio 2019, rodado no console.
+PM> Scaffold-DbContext "Data Source=.\SQLExpress;Initial Catalog=DBInvilliaDesafio;Integrated Security=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models_
+
+
+2-) Cadeia de conexao com o banco de dados SQL Server, sem senha utilizado a autenticacao do windows!.
+Data Source=.\SQLExpress;Integrated Security=True
+
+3-) Projetos:
+WEBAPI -> Criado no visual studio 2019, toda gravação e consulta do aplicativo utiliza os metodos, utiliza swagger para documentar.
+
+APPWEB -> Criado no visual studio code versao 1.49.1

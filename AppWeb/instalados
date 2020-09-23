@@ -1,0 +1,6 @@
+npm install -g @angular/cli
+npm install --save bootstrap @fortawesome/fontawesome-free
+npm install ngx-bootstrap --save
+npm install ngx-toastr --save  // mensagens gravacao
+npm install ng2-currency-mask --save   // para valores monetarios
+ 

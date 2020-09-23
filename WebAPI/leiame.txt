@@ -1,0 +1,4 @@
+﻿
+Criacao das entitys
+
+PM> Scaffold-DbContext "Data Source=.\SQLExpress;Initial Catalog=DBInvilliaDesafio;Integrated Security=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models_
